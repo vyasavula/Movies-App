@@ -8,7 +8,7 @@ const form = document.getElementById('form')
 
 const search = document.getElementById('search')
 
-
+const main = document.getElementById('main')
 //GET intial movies by creating a function using asysn, await, fetch 
 
 getMovies(API_URL)
